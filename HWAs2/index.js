@@ -87,6 +87,4 @@ const server = http.createServer(
 }
 )
 
-    //5959 is the port number
-    server.listen(5950, ()=> console.log("Yay our server is running"));
 
